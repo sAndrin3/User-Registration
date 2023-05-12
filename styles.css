@@ -1,0 +1,182 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input, select {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  table th, table td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  
+  .success {
+    color: green;
+  }
+  
+  .error {
+    color: red;
+  }
+  .edit-button {
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .delete-button {
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    background-color: #dc3545;
+    color: #fff;
+  }
+  .Register-button{
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    background-color: #4caf50;
+    color: #fff;
+  }
+  nav {
+    background-color: #f2f2f2;
+  }
+  
+  .navbar {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .logo {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin-right: 10px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #fff;
+  }
+  /* Add these styles to your existing styles.css file */
+
+.table-row {
+    display: flex;
+    align-items: center;
+    height: 40px; /* Set a fixed height for each row */
+  }
+  
+  .table-row td {
+    padding: 8px;
+    white-space: nowrap; /* Prevent line breaks within table cells */
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .button-box {
+    display: flex;
+    gap: 8px;
+  }
+  
+  .button-box button {
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-box button:hover {
+    background-color: #0056b3;
+  }
+  
+  .edit-button {
+    background-color: #28a745;
+  }
+  
+  .edit-button:hover {
+    background-color: #218838;
+  }
+  
+  .delete-button {
+    background-color: #dc3545;
+  }
+  
+  .delete-button:hover {
+    background-color: #b30019;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #fff;
+  }
+  
+ 
+  
+  
